@@ -15,3 +15,8 @@
 # BRIEF
    
 Agrikonnect stands out as a unique platform that bridges the gap between primary farmers and buyers, ensuring fair pricing, transparency, and efficiency. By leveraging advanced technology and focusing on user experience, Agrikonnect not only supports the local economy but also promotes sustainable agricultural practices. This makes Agrikonnect a special and indispensable tool for the agricultural community in Rwanda and beyond.
+
+
+# lINK TO SLIDES
+
+https://www.canva.com/design/DAGMdM34OR8/aciRui-KU4EMhoPaSN0PKg/edit
