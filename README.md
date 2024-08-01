@@ -12,6 +12,6 @@
 3. Admin can Manage Admin, Caegories and Food Items
 4. Admin can also Manage and Track Food Order and Delivery
 
- #BRIEF
+# BRIEF
    
 Agrikonnect stands out as a unique platform that bridges the gap between primary farmers and buyers, ensuring fair pricing, transparency, and efficiency. By leveraging advanced technology and focusing on user experience, Agrikonnect not only supports the local economy but also promotes sustainable agricultural practices. This makes Agrikonnect a special and indispensable tool for the agricultural community in Rwanda and beyond.
